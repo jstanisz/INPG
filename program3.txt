@@ -1,0 +1,13 @@
+ 	
+Zobacz podsumowanie
+
+#include<stdio.h>
+main()
+{
+
+char z;
+printf("Prosze wprowadzic znak\n");
+scanf("%c",&z);
+printf("Wprowadzony znak: %c\nkod ASCII: %d\n",z,z);
+
+}
