@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  	
 Zobacz podsumowanie
 
@@ -10,4 +11,18 @@ printf("Prosze wprowadzic znak\n");
 scanf("%c",&z);
 printf("Wprowadzony znak: %c\nkod ASCII: %d\n",z,z);
 
+=======
+ 	
+Zobacz podsumowanie
+
+#include<stdio.h>
+main()
+{
+
+char z;
+printf("Prosze wprowadzic znak\n");
+scanf("%c",&z);
+printf("Wprowadzony znak: %c\nkod ASCII: %d\n",z,z);
+
+>>>>>>> 097458ee515328f8dcd9acc4f2a938714b336d9f
 }
