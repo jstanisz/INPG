@@ -2,7 +2,7 @@
 #include<stdio.h>
 main()
 {
-int a=75, b=9;
+int a=75, b=10;
 float iloraz;
 int ilo;
 ilo=a/b;
